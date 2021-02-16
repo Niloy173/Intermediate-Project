@@ -1,0 +1,5 @@
+# This is a Math learning Quiz Game
+# Run and PLay the Game 
+
+Language : JAVA
+FramewORK : JFrame

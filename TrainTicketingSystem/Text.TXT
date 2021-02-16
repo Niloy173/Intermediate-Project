@@ -1,0 +1,6 @@
+# this is basically a Simple Ticketing System project
+# I haven't used any Database system ( well you can add if you want )
+# Focus on Implemenation and User interface 
+
+Language : JAVA
+FrameWork : JFrame ( Built in )
